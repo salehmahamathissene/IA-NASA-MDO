@@ -4,7 +4,7 @@
 **Course Code:** DPR400210 – Database Programming (Final Capstone Examination)  
 **Institution:** University of Lay Adventists of Kigali (UNILAK)  
 **Faculty:** Computing and Information Sciences  
-**Student Registry:** 23307/2023 — Saleh Mahamath  
+**Student Registry:** 23307/2023 — Saleh Mahamat
 **Instructor:** Eric Maniraguha  
 
 ---
